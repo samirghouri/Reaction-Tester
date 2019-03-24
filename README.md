@@ -1,2 +1,2 @@
 # Reaction-Tester
-A simple reaction time tester build in javascript.
+A simple reaction time tester build in html and javascript.
